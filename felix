@@ -1,0 +1,1496 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Marcilenny Seixas | Compra, Locação e Investimento de Imóveis em Manaus</title>
+<meta name="description" content="Encontre imóveis para comprar, alugar ou investir em Manaus com atendimento personalizado de Marcilenny Seixas. Fale pelo WhatsApp.">
+<meta name="keywords" content="imóveis em Manaus, comprar imóvel em Manaus, aluguel de imóveis em Manaus, investimento imobiliário em Manaus, corretora de imóveis em Manaus">
+<meta name="robots" content="index, follow">
+<meta name="theme-color" content="#0B2A4A">
+
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="Marcilenny Seixas | Corretora de Imóveis em Manaus">
+<meta property="og:description" content="Compra, locação e investimento imobiliário em Manaus com atendimento personalizado e orientação próxima.">
+<meta property="og:locale" content="pt_BR">
+
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230B2A4A'/%3E%3Cpath d='M8 17.5 16 10l8 7.5' stroke='%23F4B942' stroke-width='2' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M11 16v7h10v-7' stroke='%23F8F7F3' stroke-width='2' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+<style>
+:root{
+  --blue-deep: #0B2A4A;
+  --blue-deep-2: #082036;
+  --blue-medium: #145DA0;
+  --gold: #F4B942;
+  --gold-dark: #DFA22B;
+  --offwhite: #F8F7F3;
+  --white: #FFFFFF;
+  --graphite: #1E2933;
+  --graphite-soft: rgba(30,41,51,.68);
+  --line: rgba(11,42,74,.12);
+  --line-soft: rgba(11,42,74,.08);
+  --shadow-sm: 0 6px 20px rgba(11,42,74,.07);
+  --shadow-md: 0 16px 44px rgba(11,42,74,.13);
+  --shadow-lg: 0 26px 60px rgba(11,42,74,.18);
+  --radius-sm: 8px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+  --font-display: 'DM Serif Display', Georgia, serif;
+  --font-body: 'Manrope', -apple-system, BlinkMacSystemFont, sans-serif;
+  --header-h: 84px;
+}
+
+*, *::before, *::after{ box-sizing: border-box; }
+html{ scroll-behavior: auto; }
+@media (prefers-reduced-motion: no-preference){
+  html{ scroll-behavior: smooth; }
+}
+body{
+  margin: 0;
+  font-family: var(--font-body);
+  color: var(--graphite);
+  background: var(--offwhite);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+img{ max-width: 100%; display: block; }
+a{ color: inherit; text-decoration: none; }
+ul{ margin: 0; padding: 0; list-style: none; }
+button{ font-family: inherit; cursor: pointer; }
+h1,h2,h3,h4{
+  font-family: var(--font-display);
+  color: var(--blue-deep);
+  margin: 0;
+  font-weight: 400;
+  line-height: 1.15;
+}
+p{ margin: 0; }
+section[id]{ scroll-margin-top: var(--header-h); }
+
+:focus-visible{ outline: 2px solid var(--blue-medium); outline-offset: 3px; border-radius: 4px; }
+
+.skip-link{
+  position: absolute; left: 12px; top: -60px;
+  background: var(--blue-deep); color: var(--white);
+  padding: 10px 18px; border-radius: var(--radius-sm);
+  z-index: 999; transition: top .2s ease;
+}
+.skip-link:focus{ top: 12px; }
+
+.container{
+  width: 100%;
+  max-width: 1240px;
+  margin-inline: auto;
+  padding-inline: 20px;
+}
+@media (min-width: 640px){ .container{ padding-inline: 32px; } }
+@media (min-width: 1080px){ .container{ padding-inline: 40px; } }
+
+.section{ padding-block: clamp(60px, 9vw, 116px); }
+.section-white{ background: var(--white); }
+.section-off{ background: var(--offwhite); }
+.section-dark{ background: linear-gradient(165deg, var(--blue-deep), var(--blue-deep-2)); color: var(--offwhite); }
+.section-dark h2, .section-dark h3{ color: var(--white); }
+
+.section-head{
+  max-width: 620px;
+  margin-bottom: clamp(36px, 5vw, 56px);
+}
+.section-head.center{ margin-inline: auto; text-align: center; }
+.section-head h2{ font-size: clamp(1.875rem, 1.1rem + 2.6vw, 2.75rem); }
+.section-head p{
+  margin-top: 14px;
+  font-size: 1.0625rem;
+  color: var(--graphite-soft);
+  max-width: 56ch;
+}
+.section-dark .section-head p{ color: rgba(248,247,243,.78); }
+
+.eyebrow{
+  display: inline-flex; align-items: center; gap: 10px;
+  font-size: .8125rem; font-weight: 700; letter-spacing: .06em;
+  text-transform: uppercase; color: var(--blue-medium);
+}
+.eyebrow::before{
+  content: ""; width: 26px; height: 1.5px; background: var(--gold);
+  display: inline-block;
+}
+
+/* Buttons */
+.btn{
+  display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+  font-family: var(--font-body); font-weight: 700; font-size: .9375rem;
+  padding: 15px 26px; border-radius: 10px;
+  border: 1.5px solid transparent; white-space: nowrap;
+  transition: transform .18s ease, box-shadow .18s ease, background-color .18s ease, border-color .18s ease, color .18s ease;
+  line-height: 1;
+}
+.btn svg{ width: 18px; height: 18px; flex-shrink: 0; }
+.btn-primary{
+  background: var(--gold); color: var(--blue-deep);
+  box-shadow: 0 10px 26px rgba(244,185,66,.35);
+}
+.btn-primary:hover{ background: var(--gold-dark); transform: translateY(-2px); box-shadow: 0 14px 30px rgba(244,185,66,.42); }
+.btn-secondary{
+  background: transparent; color: var(--blue-deep); border-color: var(--line);
+  background-color: rgba(255,255,255,.5);
+}
+.btn-secondary:hover{ border-color: var(--blue-medium); background-color: rgba(20,93,160,.06); transform: translateY(-2px); }
+.section-dark .btn-secondary{ color: var(--white); border-color: rgba(248,247,243,.35); background: transparent; }
+.section-dark .btn-secondary:hover{ background: rgba(248,247,243,.1); border-color: var(--white); }
+.btn-outline-onwhite{ background: var(--white); color: var(--blue-deep); border-color: var(--line); }
+.btn-outline-onwhite:hover{ border-color: var(--blue-medium); transform: translateY(-2px); }
+.btn-block{ width: 100%; }
+.btn-sm{ padding: 11px 20px; font-size: .875rem; }
+
+/* Placeholder editable content */
+.ph{
+  border: 1.5px dashed rgba(11,42,74,.35);
+  background: rgba(20,93,160,.05);
+  color: var(--blue-medium);
+  font-style: italic;
+  border-radius: 6px;
+  padding: 1px 8px;
+  font-size: .95em;
+  display: inline-block;
+}
+.section-dark .ph{ border-color: rgba(248,247,243,.4); color: var(--gold); background: rgba(248,247,243,.06); }
+
+/* Fotos reais da corretora */
+.real-photo{width:100%;height:100%;object-fit:cover;object-position:center top;display:block;}
+.photo-frame{position:relative;overflow:hidden;border-radius:var(--radius-lg);background:linear-gradient(145deg,#e9eef4 0%,#f7f8fa 100%);box-shadow:var(--shadow-lg);}
+.photo-frame::after{content:"";position:absolute;inset:0;pointer-events:none;background:linear-gradient(180deg,rgba(255,255,255,0) 62%,rgba(11,42,74,.07) 100%);}
+.hero-photo{aspect-ratio:4/5;}
+.about-photo{aspect-ratio:3/4;box-shadow:var(--shadow-md);}
+.credential-badge{position:absolute;left:18px;bottom:18px;z-index:2;background:rgba(255,255,255,.95);backdrop-filter:blur(8px);border:1px solid rgba(11,42,74,.1);border-radius:14px;padding:12px 14px;box-shadow:var(--shadow-md);}
+.credential-badge strong{display:block;color:var(--blue-deep);font-size:.9rem;}
+.credential-badge span{display:block;margin-top:2px;color:var(--graphite-soft);font-size:.75rem;}
+
+/* Media placeholder blocks */
+.ph-media{
+  position: relative;
+  background: linear-gradient(135deg, var(--blue-deep) 0%, var(--blue-medium) 100%);
+  overflow: hidden;
+  display: flex; align-items: flex-end;
+  color: rgba(248,247,243,.9);
+  width: 100%;
+  height: 100%;
+}
+.ph-media::before{
+  content: "";
+  position: absolute; inset: 0;
+  background-image:
+    linear-gradient(rgba(248,247,243,.08) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(248,247,243,.08) 1px, transparent 1px);
+  background-size: 32px 32px;
+  opacity: .5;
+}
+.ph-media__icon{
+  position: absolute; top: 50%; left: 50%; transform: translate(-50%,-58%);
+  width: 44px; height: 44px; opacity: .55;
+}
+.ph-media__tag{
+  position: relative; margin: 14px; padding: 7px 12px;
+  background: rgba(8,32,54,.55); backdrop-filter: blur(2px);
+  border: 1px solid rgba(248,247,243,.3);
+  border-radius: 999px; font-size: .75rem; font-weight: 600;
+  letter-spacing: .02em;
+}
+
+/* Reveal on scroll */
+.reveal{ opacity: 1; transform: none; }
+@media (prefers-reduced-motion: no-preference){
+  .reveal{ opacity: 0; transform: translateY(16px); transition: opacity .6s ease, transform .6s ease; }
+  .reveal.is-visible{ opacity: 1; transform: none; }
+}
+
+/* ============ HEADER ============ */
+.site-header{
+  position: sticky; top: 0; z-index: 500;
+  background: rgba(248,247,243,.92);
+  backdrop-filter: saturate(180%) blur(10px);
+  border-bottom: 1px solid transparent;
+  transition: border-color .25s ease, box-shadow .25s ease;
+}
+.site-header.is-scrolled{ border-color: var(--line); box-shadow: 0 6px 24px rgba(11,42,74,.06); }
+.header-inner{
+  height: var(--header-h);
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 20px;
+}
+.logo{
+  font-family: var(--font-display); font-size: 1.25rem; color: var(--blue-deep);
+  letter-spacing: .01em; flex-shrink: 0;
+}
+.logo span{ color: var(--blue-medium); }
+.nav-desktop{ display: none; }
+.nav-desktop ul{ display: flex; gap: 30px; }
+.nav-desktop a{
+  font-size: .9375rem; font-weight: 600; color: var(--graphite);
+  position: relative; padding-block: 6px;
+}
+.nav-desktop a::after{
+  content: ""; position: absolute; left: 0; right: 100%; bottom: 0;
+  height: 2px; background: var(--gold); transition: right .22s ease;
+}
+.nav-desktop a:hover::after{ right: 0; }
+.header-actions{ display: flex; align-items: center; gap: 14px; }
+.header-actions .btn-primary{ display: none; }
+
+.menu-toggle{
+  width: 44px; height: 44px; border-radius: 10px; border: 1px solid var(--line);
+  background: var(--white); display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0;
+}
+.menu-toggle svg{ width: 22px; height: 22px; color: var(--blue-deep); }
+.menu-toggle .icon-x{ display: none; }
+.menu-toggle.is-open .icon-menu{ display: none; }
+.menu-toggle.is-open .icon-x{ display: block; }
+
+.mobile-menu{
+  position: fixed; inset: var(--header-h) 0 0 0; z-index: 480;
+  background: var(--offwhite);
+  padding: 28px 20px 100px;
+  transform: translateX(100%);
+  transition: transform .28s ease;
+  overflow-y: auto;
+}
+.mobile-menu.is-open{ transform: translateX(0); }
+.mobile-menu ul{ display: flex; flex-direction: column; gap: 4px; margin-bottom: 26px; }
+.mobile-menu a{
+  display: block; font-family: var(--font-display); font-size: 1.5rem; color: var(--blue-deep);
+  padding-block: 12px; border-bottom: 1px solid var(--line);
+}
+
+@media (min-width: 900px){
+  .nav-desktop{ display: block; }
+  .header-actions .btn-primary{ display: inline-flex; }
+  .menu-toggle{ display: none; }
+  .mobile-menu{ display: none; }
+}
+
+/* ============ HERO ============ */
+.hero{
+  padding-block: clamp(48px, 7vw, 96px) clamp(56px, 8vw, 100px);
+  background: linear-gradient(180deg, var(--offwhite) 0%, #F1EFE7 100%);
+}
+.hero .container{
+  display: grid; gap: 44px;
+}
+.hero-copy{ max-width: 560px; }
+.hero-copy .eyebrow{ margin-bottom: 22px; }
+.hero h1{
+  font-size: clamp(2.375rem, 1.55rem + 3.6vw, 4rem);
+  letter-spacing: -.01em;
+}
+.hero-sub{
+  margin-top: 22px font-size: 1.125rem; color: var(--graphite-soft);
+  max-width: 52ch;
+}
+.hero-ctas{ display: flex; flex-wrap: wrap; gap: 14px; margin-top: 32px; }
+.hero-note{
+  margin-top: 22px; font-size: .875rem; color: var(--graphite-soft);
+  display: flex; align-items: center; gap: 8px;
+}
+.hero-note svg{ width: 16px; height: 16px; color: var(--blue-medium); flex-shrink: 0; }
+
+.hero-visual{ position: relative; }
+.hero-visual .ph-media{
+  aspect-ratio: 4 / 5; border-radius: var(--radius-lg); box-shadow: var(--shadow-lg);
+}
+.hero-card{
+  background: var(--white); border-radius: var(--radius-md); box-shadow: var(--shadow-md);
+  padding: 20px 22px; max-width: 250px;
+  margin-top: -46px; margin-inline: auto;
+  position: relative; z-index: 2;
+  border-top: 3px solid var(--gold);
+}
+.hero-card strong{ display: block; font-family: var(--font-display); font-size: 1.0625rem; color: var(--blue-deep); font-weight: 400; }
+.hero-card span{ display: block; font-size: .8125rem; color: var(--graphite-soft); margin-top: 6px; }
+.hero-card .dot-sep{ color: var(--gold-dark); margin-inline: 4px; }
+
+@media (min-width: 900px){
+  .hero .container{ grid-template-columns: 1.05fr .95fr; align-items: center; }
+  .hero-visual{ order: 2; }
+  .hero-card{ position: absolute; left: -28px; bottom: 34px; margin: 0; }
+}
+
+/* ============ TRUST BAR ============ */
+.trust-bar{ padding-block: 0; }
+.trust-grid{
+  display: grid; grid-template-columns: repeat(2, 1fr); gap: 1px;
+  background: var(--line); border: 1px solid var(--line); border-radius: var(--radius-md);
+  overflow: hidden;
+}
+.trust-item{
+  background: var(--white); padding: 26px 22px; display: flex; gap: 14px; align-items: flex-start;
+}
+.trust-item svg{ width: 26px; height: 26px; color: var(--blue-medium); flex-shrink: 0; margin-top: 2px; }
+.trust-item h3{ font-size: 1.0625rem; font-family: var(--font-body); font-weight: 700; color: var(--blue-deep); }
+.trust-item p{ font-size: .9375rem; color: var(--graphite-soft); margin-top: 4px; }
+@media (min-width: 780px){ .trust-grid{ grid-template-columns: repeat(4, 1fr); } }
+
+/* ============ SERVICE CARDS ============ */
+.service-grid{ display: grid; gap: 22px; grid-template-columns: 1fr; }
+@media (min-width: 780px){ .service-grid{ grid-template-columns: repeat(3, 1fr); } }
+.service-card{
+  background: var(--white); border-radius: var(--radius-md); padding: 30px 26px;
+  border: 1px solid var(--line-soft); box-shadow: var(--shadow-sm);
+  display: flex; flex-direction: column; gap: 16px;
+  transition: transform .2s ease, box-shadow .2s ease;
+}
+.service-card:hover{ transform: translateY(-4px); box-shadow: var(--shadow-md); }
+.service-icon{
+  width: 52px; height: 52px; border-radius: 14px; background: rgba(20,93,160,.08);
+  display: flex; align-items: center; justify-content: center;
+}
+.service-icon svg{ width: 26px; height: 26px; color: var(--blue-medium); }
+.service-card h3{ font-size: 1.375rem; }
+.service-card p{ color: var(--graphite-soft); font-size: .9688rem; flex-grow: 1; }
+
+/* ============ PROPERTIES & SLIDER ============ */
+.property-grid{ display: grid; gap: 26px; grid-template-columns: 1fr; }
+@media (min-width: 680px){ .property-grid{ grid-template-columns: repeat(2, 1fr); } }
+@media (min-width: 1080px){ .property-grid{ grid-template-columns: repeat(3, 1fr); } }
+.property-card{
+  background: var(--white); border-radius: var(--radius-md); overflow: hidden;
+  border: 1px solid var(--line-soft); box-shadow: var(--shadow-sm);
+  display: flex; flex-direction: column;
+  transition: transform .2s ease, box-shadow .2s ease;
+}
+.property-card:hover{ transform: translateY(-4px); box-shadow: var(--shadow-md); }
+
+/* Container do Carrossel */
+.property-slider{
+  position: relative;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  background: var(--blue-deep);
+}
+.slider-track{
+  display: flex;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.35s ease-in-out;
+}
+.slider-slide{
+  flex: 0 0 100%;
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.slider-slide img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.slider-btn{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background: rgba(8, 32, 54, 0.65);
+  backdrop-filter: blur(4px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  color: var(--white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+  cursor: pointer;
+  transition: background .2s ease, transform .2s ease;
+}
+.slider-btn:hover{
+  background: var(--blue-deep);
+  transform: translateY(-50%) scale(1.08);
+}
+.slider-btn.prev{ left: 10px; }
+.slider-btn.next{ right: 10px; }
+.slider-btn svg{ width: 18px; height: 18px; }
+
+.slider-counter{
+  position: absolute;
+  bottom: 12px;
+  right: 12px;
+  z-index: 10;
+  background: rgba(8, 32, 54, 0.75);
+  backdrop-filter: blur(4px);
+  color: var(--white);
+  padding: 3px 8px;
+  border-radius: 6px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+.slider-dots{
+  position: absolute;
+  bottom: 12px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 6px;
+  z-index: 10;
+}
+.slider-dot{
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.5);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.slider-dot.active{
+  background: var(--gold);
+  width: 16px;
+  border-radius: 999px;
+}
+
+.property-model-tag{
+  position: absolute; top: 14px; left: 14px; z-index: 10;
+  background: var(--gold); color: var(--blue-deep); font-size: .6875rem; font-weight: 700;
+  text-transform: uppercase; letter-spacing: .04em; padding: 5px 10px; border-radius: 999px;
+}
+.property-purpose{
+  position: absolute; top: 14px; right: 14px; z-index: 10;
+  background: rgba(8,32,54,.6); color: var(--white); font-size: .6875rem; font-weight: 700;
+  text-transform: uppercase; letter-spacing: .04em; padding: 5px 10px; border-radius: 999px;
+}
+.property-body{ padding: 22px 22px 24px; display: flex; flex-direction: column; gap: 14px; flex-grow: 1; }
+.property-body h3{ font-size: 1.3125rem; }
+.property-loc{ display: flex; align-items: center; gap: 6px; font-size: .875rem; color: var(--graphite-soft); }
+.property-loc svg{ width: 15px; height: 15px; color: var(--blue-medium); }
+.property-specs{ display: flex; flex-wrap: wrap; gap: 12px; font-size: .8438rem; color: var(--graphite); border-top: 1px solid var(--line-soft); border-bottom: 1px solid var(--line-soft); padding-block: 12px; }
+.property-specs span{ display: inline-flex; align-items: center; gap: 6px; }
+.property-specs svg{ width: 16px; height: 16px; color: var(--blue-medium); }
+.property-price{ font-family: var(--font-display); font-size: 1.375rem; color: var(--blue-deep); }
+.property-diff{ font-size: .8438rem; color: var(--graphite-soft); }
+.property-card .btn{ margin-top: 4px; }
+
+.properties-footnote{
+  margin-top: 30px; font-size: .875rem; color: var(--graphite-soft); text-align: center;
+}
+
+/* ============ LEAD FORM ============ */
+.lead-wrap{ display: grid; gap: 40px; align-items: start; }
+@media (min-width: 940px){ .lead-wrap{ grid-template-columns: .85fr 1.15fr; gap: 60px; } }
+.lead-copy h2{ font-size: clamp(1.75rem, 1.1rem + 2.2vw, 2.375rem); }
+.lead-copy p{ margin-top: 16px; color: var(--graphite-soft); max-width: 46ch; }
+.lead-form{
+  background: var(--white); border-radius: var(--radius-lg); padding: clamp(24px,4vw,40px);
+  border: 1px solid var(--line-soft); box-shadow: var(--shadow-sm);
+}
+.form-row{ margin-bottom: 20px; }
+.form-row label{ display: block; font-size: .875rem; font-weight: 700; color: var(--blue-deep); margin-bottom: 8px; }
+.pill-group{ display: flex; flex-wrap: wrap; gap: 10px; }
+.pill-option input{ position: absolute; opacity: 0; }
+.pill-option span{
+  display: inline-flex; padding: 10px 18px; border-radius: 999px; border: 1.5px solid var(--line);
+  font-size: .875rem; font-weight: 600; color: var(--graphite); transition: all .16s ease; cursor: pointer;
+}
+.pill-option input:checked + span{ background: var(--blue-deep); border-color: var(--blue-deep); color: var(--white); }
+.pill-option input:focus-visible + span{ outline: 2px solid var(--blue-medium); outline-offset: 2px; }
+.form-row select, .form-row input[type="text"]{
+  width: 100%; padding: 13px 16px; border-radius: 10px; border: 1.5px solid var(--line);
+  font-family: var(--font-body); font-size: .9375rem; color: var(--graphite); background: var(--offwhite);
+  appearance: none;
+}
+.select-wrap{ position: relative; }
+.select-wrap svg{ position: absolute; right: 14px; top: 50%; transform: translateY(-50%); width: 18px; height: 18px; color: var(--blue-medium); pointer-events: none; }
+.form-row select:focus, .form-row input:focus{ outline: 2px solid var(--blue-medium); outline-offset: 1px; border-color: var(--blue-medium); }
+
+/* ============ DIFFERENTIATORS ============ */
+.diff-wrap{ display: grid; gap: 44px; align-items: center; }
+@media (min-width: 940px){ .diff-wrap{ grid-template-columns: 1fr 1fr; gap: 64px; } }
+.diff-copy p{ margin-top: 16px; color: var(--graphite-soft); max-width: 50ch; }
+.pillar-list{ margin-top: 30px; display: grid; gap: 22px; }
+@media (min-width: 560px){ .pillar-list{ grid-template-columns: 1fr 1fr; } }
+.pillar{ display: flex; gap: 14px; }
+.pillar-icon{
+  width: 40px; height: 40px; border-radius: 10px; background: rgba(244,185,66,.18);
+  display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+}
+.pillar-icon svg{ width: 20px; height: 20px; color: var(--gold-dark); }
+.pillar h3{ font-size: 1.0625rem; font-family: var(--font-body); font-weight: 700; color: var(--blue-deep); }
+.pillar p{ font-size: .9063rem; color: var(--graphite-soft); margin-top: 4px; }
+.diff-copy .btn{ margin-top: 32px; }
+.diff-visual .ph-media{ aspect-ratio: 4/5; border-radius: var(--radius-lg); box-shadow: var(--shadow-md); }
+
+/* ============ HOW IT WORKS ============ */
+.steps{ position: relative; display: grid; gap: 0; }
+.step{
+  display: grid; grid-template-columns: 64px 1fr; gap: 20px;
+  padding-block: 22px; position: relative;
+}
+.step:not(:last-child)::after{
+  content: ""; position: absolute; left: 31px; top: 74px; bottom: -8px; width: 1.5px;
+  background: var(--line);
+}
+.step-num{
+  font-family: var(--font-display); font-size: 1.75rem; color: var(--gold-dark);
+  width: 64px; height: 64px; border-radius: 50%; background: var(--white);
+  border: 1.5px solid var(--line); display: flex; align-items: center; justify-content: center;
+  z-index: 1;
+}
+.step h3{ font-size: 1.1875rem; }
+.step p{ margin-top: 6px; color: var(--graphite-soft); font-size: .9375rem; max-width: 56ch; }
+.how-cta{ margin-top: 40px; text-align: center; }
+
+/* ============ STILL RESEARCHING ============ */
+.research-band{
+  background: var(--white); border: 1px solid var(--line-soft); border-radius: var(--radius-lg);
+  padding: clamp(32px, 5vw, 56px); text-align: center; box-shadow: var(--shadow-sm);
+}
+.research-band h2{ font-size: clamp(1.625rem, 1.1rem + 1.8vw, 2.125rem); max-width: 620px; margin-inline: auto; }
+.research-band p{ margin-top: 16px; max-width: 54ch; margin-inline: auto; color: var(--graphite-soft); }
+.research-band .btn{ margin-top: 26px; }
+.research-band .microcopy{ margin-top: 14px; font-size: .8438rem; color: var(--graphite-soft); font-style: italic; }
+
+/* ============ INVESTMENT ============ */
+.invest-wrap{ display: grid; gap: 40px; }
+@media (min-width: 940px){ .invest-wrap{ grid-template-columns: 1fr 1fr; gap: 70px; align-items: center; } }
+.invest-copy p{ margin-top: 16px; color: rgba(248,247,243,.8); max-width: 50ch; }
+.invest-topics{ margin-top: 30px; display: grid; gap: 18px; grid-template-columns: 1fr 1fr; }
+.invest-topic{
+  border: 1px solid rgba(248,247,243,.18); border-radius: var(--radius-md); padding: 18px;
+  background: rgba(248,247,243,.04);
+}
+.invest-topic svg{ width: 22px; height: 22px; color: var(--gold); }
+.invest-topic h3{ font-size: .9688rem; font-family: var(--font-body); font-weight: 700; color: var(--white); margin-top: 12px; }
+.invest-copy .btn-primary{ margin-top: 32px; }
+.invest-disclaimer{ margin-top: 16px; font-size: .8125rem; color: rgba(248,247,243,.6); max-width: 46ch; }
+
+/* ============ ABOUT ============ */
+.about-wrap{ display: grid; gap: 44px; align-items: center; }
+@media (min-width: 940px){ .about-wrap{ grid-template-columns: .85fr 1.15fr; gap: 64px; } }
+.about-visual .ph-media{ aspect-ratio: 3/4; border-radius: var(--radius-lg); box-shadow: var(--shadow-md); }
+.about-copy p{ margin-top: 16px; color: var(--graphite-soft); max-width: 58ch; }
+.about-quote{
+  margin-top: 26px; padding-left: 20px; border-left: 3px solid var(--gold);
+  font-family: var(--font-display); font-size: 1.375rem; color: var(--blue-deep); line-height: 1.4;
+}
+.about-meta{ margin-top: 24px; display: flex; flex-wrap: wrap; gap: 10px 22px; font-size: .875rem; color: var(--graphite-soft); }
+.about-copy .btn{ margin-top: 28px; }
+
+/* ============ SOCIAL PROOF ============ */
+.testimonial-grid{ display: grid; gap: 22px; grid-template-columns: 1fr; }
+@media (min-width: 780px){ .testimonial-grid{ grid-template-columns: repeat(3, 1fr); } }
+.testimonial-card{
+  border: 1.5px dashed rgba(11,42,74,.28); border-radius: var(--radius-md);
+  padding: 26px; background: rgba(20,93,160,.03);
+}
+.stars{ display: flex; gap: 4px; margin-bottom: 14px; }
+.stars svg{ width: 16px; height: 16px; color: var(--gold-dark); }
+.testimonial-card p{ font-size: .9375rem; color: var(--graphite-soft); font-style: italic; }
+.testimonial-name{ margin-top: 16px; font-size: .875rem; font-weight: 700; color: var(--blue-deep); }
+
+/* ============ FAQ ============ */
+.faq-list{ max-width: 800px; }
+.faq-item{ border-bottom: 1px solid var(--line); }
+.faq-item summary{
+  display: flex; align-items: center; justify-content: space-between; gap: 20px;
+  padding-block: 22px; font-family: var(--font-body); font-weight: 700; font-size: 1.0313rem;
+  color: var(--blue-deep); cursor: pointer; list-style: none;
+}
+.faq-item summary::-webkit-details-marker{ display: none; }
+.faq-item summary svg{ width: 20px; height: 20px; color: var(--blue-medium); flex-shrink: 0; transition: transform .22s ease; }
+.faq-item[open] summary svg{ transform: rotate(180deg); }
+.faq-item p{ padding-bottom: 22px; color: var(--graphite-soft); max-width: 68ch; font-size: .9375rem; }
+
+/* ============ FINAL CTA ============ */
+.final-cta{ text-align: center; }
+.final-cta h2{ font-size: clamp(2rem, 1.3rem + 2.6vw, 2.875rem); max-width: 720px; margin-inline: auto; color: var(--white); }
+.final-cta p{ margin-top: 18px; max-width: 56ch; margin-inline: auto; color: rgba(248,247,243,.8); font-size: 1.0625rem; }
+.final-cta .btn{ margin-top: 30px; }
+.final-cta .sub{ margin-top: 26px; font-size: .9375rem; color: rgba(248,247,243,.85); font-weight: 700; }
+.final-cta .micro{ margin-top: 8px; font-size: .8125rem; color: rgba(248,247,243,.6); }
+
+/* ============ FOOTER ============ */
+.site-footer{ background: var(--blue-deep-2); color: rgba(248,247,243,.82); padding-block: 56px 28px; }
+.footer-top{ display: grid; gap: 34px; padding-bottom: 34px; border-bottom: 1px solid rgba(248,247,243,.12); }
+@media (min-width: 780px){ .footer-top{ grid-template-columns: 1.2fr 1fr 1fr; } }
+.footer-brand .logo{ color: var(--white); }
+.footer-brand .logo span{ color: var(--gold); }
+.footer-brand p{ margin-top: 12px; font-size: .9063rem; max-width: 40ch; }
+.footer-col h4{ font-family: var(--font-body); color: var(--white); font-size: .9375rem; font-weight: 700; margin-bottom: 14px; }
+.footer-col ul{ display: grid; gap: 10px; }
+.footer-col a{ font-size: .9063rem; }
+.footer-col a:hover{ color: var(--gold); }
+.footer-bottom{
+  padding-top: 24px; display: flex; flex-wrap: wrap; gap: 14px 28px; justify-content: space-between;
+  font-size: .8125rem; color: rgba(248,247,243,.55);
+}
+.footer-bottom a:hover{ color: var(--gold); }
+
+/* ============ WHATSAPP FLOAT + MOBILE BAR ============ */
+.whatsapp-float{
+  position: fixed; right: 26px; bottom: 26px; z-index: 400;
+  width: 60px; height: 60px; border-radius: 50%; background: var(--gold);
+  display: none; align-items: center; justify-content: center;
+  box-shadow: 0 14px 32px rgba(244,185,66,.45);
+  transition: transform .2s ease, box-shadow .2s ease;
+}
+.whatsapp-float svg{ width: 28px; height: 28px; color: var(--blue-deep); }
+.whatsapp-float:hover{ transform: translateY(-3px) scale(1.04); box-shadow: 0 18px 36px rgba(244,185,66,.55); }
+
+.whatsapp-bar{
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 400;
+  padding: 12px 16px calc(12px + env(safe-area-inset-bottom));
+  background: var(--white); border-top: 1px solid var(--line);
+  box-shadow: 0 -8px 24px rgba(11,42,74,.08);
+}
+
+@media (min-width: 900px){
+  .whatsapp-float{ display: flex; }
+  .whatsapp-bar{ display: none; }
+}
+@media (max-width: 899px){
+  body{ padding-bottom: 78px; }
+}
+</style>
+</head>
+<body>
+
+<!-- ============ SVG ICONS ============ -->
+<svg style="display:none" aria-hidden="true">
+  <symbol id="i-home" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11.5 12 4l9 7.5"/><path d="M5.5 10v9.5a1 1 0 0 0 1 1H9.5v-6h5v6H17.5a1 1 0 0 0 1-1V10"/></symbol>
+  <symbol id="i-key" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="15" r="4.25"/><path d="M11 12.2 19 4.2M16.5 6.7l2.3 2.3M14 9.2l2 2"/></symbol>
+  <symbol id="i-trend" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M3 17.5 9.5 11l4 4L21 6.5"/><path d="M15.5 6.5H21v5.5"/></symbol>
+  <symbol id="i-user" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8.2" r="3.6"/><path d="M4.5 20c1.4-3.6 4.4-5.5 7.5-5.5s6.1 1.9 7.5 5.5"/></symbol>
+  <symbol id="i-pin" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.5 7-11.8A7 7 0 0 0 5 9.2C5 14.5 12 21 12 21Z"/><circle cx="12" cy="9.3" r="2.4"/></symbol>
+  <symbol id="i-calendar" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="5.5" width="17" height="15" rx="2.2"/><path d="M3.5 10h17M8 3.5v4M16 3.5v4"/></symbol>
+  <symbol id="i-bed" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M3 18v-6.5A2 2 0 0 1 5 9.5h14a2 2 0 0 1 2 2V18M3 18v2.5M21 18v2.5M3 15h18"/><rect x="5" y="9.5" width="6" height="3.2" rx="1"/></symbol>
+  <symbol id="i-bath" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12h16v2.5A5.5 5.5 0 0 1 14.5 20h-5A5.5 5.5 0 0 1 4 14.5V12Z"/><path d="M7 12V6.8A2.3 2.3 0 0 1 9.3 4.5c.9 0 1.7.5 2.1 1.3M3 20h18"/></symbol>
+  <symbol id="i-car" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M4.5 16V12l2-5.2a2 2 0 0 1 1.9-1.3h7.2a2 2 0 0 1 1.9 1.3l2 5.2v4"/><path d="M4.5 16h15v2.5a1 1 0 0 1-1 1H16a1 1 0 0 1-1-1V17H9v1.5a1 1 0 0 1-1 1H5.5a1 1 0 0 1-1-1V16Z"/><circle cx="7.5" cy="13" r="1"/><circle cx="16.5" cy="13" r="1"/></symbol>
+  <symbol id="i-maximize" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M9 4.5H4.5V9M15 4.5h4.5V9M9 19.5H4.5V15M15 19.5h4.5V15"/></symbol>
+  <symbol id="i-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4.5 12.5 9.5 17.5 19.5 6.5"/></symbol>
+  <symbol id="i-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9.5 12 15.5 18 9.5"/></symbol>
+  <symbol id="i-arrow-left" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M15 19l-7-7 7-7"/></symbol>
+  <symbol id="i-arrow-right" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 5l7 7-7 7"/></symbol>
+  <symbol id="i-menu" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></symbol>
+  <symbol id="i-x" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></symbol>
+  <symbol id="i-chat" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12.2c0-4.4 3.8-8 8.4-8s8.4 3.6 8.4 8-3.8 8-8.4 8c-1.2 0-2.4-.24-3.4-.68L4 20.7l1.3-4.2A7.4 7.4 0 0 1 4 12.2Z"/><path d="M8.5 11.2c.3 2.3 2 4 4.3 4.3" stroke-width="1.6"/></symbol>
+  <symbol id="i-image" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="4.5" width="17" height="15" rx="2"/><circle cx="9" cy="10" r="1.6"/><path d="M4 18l5.5-5.5L13 16l3-3 4 4"/></symbol>
+  <symbol id="i-star" viewBox="0 0 24 24" fill="currentColor" stroke="none"><path d="M12 3.5l2.6 5.4 5.9.8-4.3 4.2 1 6-5.2-2.9-5.2 2.9 1-6-4.3-4.2 5.9-.8L12 3.5Z"/></symbol>
+  <symbol id="i-shield" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.5 19 6.5v5.3c0 4.4-3 7.6-7 8.7-4-1.1-7-4.3-7-8.7V6.5L12 3.5Z"/><path d="M8.7 12.2l2.2 2.2 4.4-4.4"/></symbol>
+</svg>
+
+<a href="#main" class="skip-link">Pular para o conteúdo</a>
+
+<!-- ============ HEADER ============ -->
+<header class="site-header" id="header">
+  <div class="container header-inner">
+    <a href="#hero" class="logo">Marcilenny <span>Seixas</span></a>
+
+    <nav class="nav-desktop" aria-label="Navegação principal">
+      <ul>
+        <li><a href="#hero">Início</a></li>
+        <li><a href="#servicos">Comprar</a></li>
+        <li><a href="#servicos">Alugar</a></li>
+        <li><a href="#investimento">Investir</a></li>
+        <li><a href="#sobre">Sobre</a></li>
+        <li><a href="#faq">FAQ</a></li>
+      </ul>
+    </nav>
+
+    <div class="header-actions">
+      <a href="#" class="btn btn-primary btn-sm" data-wa="geral">
+        <svg><use href="#i-chat"/></svg> WhatsApp
+      </a>
+      <button class="menu-toggle" id="menuToggle" aria-label="Abrir menu" aria-expanded="false" aria-controls="mobileMenu">
+        <svg class="icon-menu"><use href="#i-menu"/></svg>
+        <svg class="icon-x"><use href="#i-x"/></svg>
+      </button>
+    </div>
+  </div>
+
+  <div class="mobile-menu" id="mobileMenu">
+    <nav aria-label="Navegação mobile">
+      <ul>
+        <li><a href="#hero" class="mm-link">Início</a></li>
+        <li><a href="#servicos" class="mm-link">Comprar</a></li>
+        <li><a href="#servicos" class="mm-link">Alugar</a></li>
+        <li><a href="#investimento" class="mm-link">Investir</a></li>
+        <li><a href="#sobre" class="mm-link">Sobre</a></li>
+        <li><a href="#faq" class="mm-link">FAQ</a></li>
+      </ul>
+    </nav>
+    <a href="#" class="btn btn-primary btn-block" data-wa="geral">
+      <svg><use href="#i-chat"/></svg> Falar com Marcilenny no WhatsApp
+    </a>
+  </div>
+</header>
+
+<main id="main">
+
+  <!-- ============ HERO ============ -->
+  <section class="hero" id="hero">
+    <div class="container">
+      <div class="hero-copy">
+        <p class="eyebrow">Marcilenny Seixas | Corretora de Imóveis • CRECI 7868</p>
+        <h1>Encontre seu próximo imóvel em Manaus com atendimento personalizado.</h1>
+        <p class="hero-sub">Compra, locação e investimento imobiliário com orientação próxima para você encontrar opções alinhadas ao seu momento, às suas necessidades e aos seus objetivos.</p>
+        <div class="hero-ctas">
+          <a href="#" class="btn btn-primary" data-wa="geral">
+            <svg><use href="#i-chat"/></svg> Falar com Marcilenny no WhatsApp
+          </a>
+          <a href="#imoveis" class="btn btn-secondary">Conhecer oportunidades</a>
+        </div>
+        <p class="hero-note"><svg><use href="#i-shield"/></svg> Seu objetivo vem primeiro. O imóvel vem depois.</p>
+      </div>
+
+      <div class="hero-visual reveal">
+        <div class="photo-frame hero-photo">
+          <img class="real-photo" src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=800&q=80" alt="Marcilenny Seixas, corretora de imóveis em Manaus" loading="eager" decoding="async">
+          <div class="credential-badge"><strong>CRECI 7868</strong><span>Atendimento em Manaus/AM</span></div>
+        </div>
+        <div class="hero-card">
+          <strong>Atendimento personalizado</strong>
+          <span>Compra <span class="dot-sep">•</span> Locação <span class="dot-sep">•</span> Investimento</span>
+          <span>Manaus/AM</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ BARRA DE CONFIANÇA ============ -->
+  <section class="trust-bar">
+    <div class="container">
+      <div class="trust-grid reveal">
+        <div class="trust-item">
+          <svg><use href="#i-home"/></svg>
+          <div><h3>Comprar</h3><p>Encontre opções alinhadas às suas necessidades e orçamento.</p></div>
+        </div>
+        <div class="trust-item">
+          <svg><use href="#i-key"/></svg>
+          <div><h3>Alugar</h3><p>Encontre opções para sua rotina, família ou empresa.</p></div>
+        </div>
+        <div class="trust-item">
+          <svg><use href="#i-trend"/></svg>
+          <div><h3>Investir</h3><p>Converse sobre oportunidades conforme seu objetivo.</p></div>
+        </div>
+        <div class="trust-item">
+          <svg><use href="#i-user"/></svg>
+          <div><h3>Atendimento personalizado</h3><p>Uma abordagem direcionada à sua necessidade.</p></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ COMO POSSO AJUDAR ============ -->
+  <section class="section section-off" id="servicos">
+    <div class="container">
+      <div class="section-head center">
+        <h2>O que você está buscando hoje?</h2>
+      </div>
+      <div class="service-grid">
+        <article class="service-card reveal">
+          <div class="service-icon"><svg><use href="#i-home"/></svg></div>
+          <h3>Quero comprar um imóvel</h3>
+          <p>Encontre opções alinhadas às suas necessidades, localização desejada e orçamento.</p>
+          <a href="#" class="btn btn-secondary btn-block" data-wa="compra">Quero comprar um imóvel</a>
+        </article>
+        <article class="service-card reveal">
+          <div class="service-icon"><svg><use href="#i-key"/></svg></div>
+          <h3>Quero alugar um imóvel</h3>
+          <p>Encontre opções para morar, trabalhar ou atender às necessidades da sua família ou empresa.</p>
+          <a href="#" class="btn btn-secondary btn-block" data-wa="locacao">Quero alugar um imóvel</a>
+        </article>
+        <article class="service-card reveal">
+          <div class="service-icon"><svg><use href="#i-trend"/></svg></div>
+          <h3>Quero investir em imóveis</h3>
+          <p>Converse sobre possibilidades imobiliárias de acordo com seu objetivo e perfil.</p>
+          <a href="#" class="btn btn-secondary btn-block" data-wa="investimento">Quero conversar sobre investimento</a>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ IMÓVEIS EM DESTAQUE COM GALERIA DE FOTOS ============ -->
+  <section class="section section-white" id="imoveis">
+    <div class="container">
+      <div class="section-head">
+        <h2>Oportunidades selecionadas para você</h2>
+        <p>Clique nas setas para navegar por todas as fotos de cada oportunidade disponível.</p>
+      </div>
+
+      <div class="property-grid">
+
+        <!-- IMÓVEL 1: Apartamento -->
+        <article class="property-card reveal">
+          <div class="property-slider">
+            <span class="property-model-tag">Destaque</span>
+            <span class="property-purpose">Venda</span>
+            
+            <button class="slider-btn prev" aria-label="Foto anterior"><svg><use href="#i-arrow-left"/></svg></button>
+            <button class="slider-btn next" aria-label="Próxima foto"><svg><use href="#i-arrow-right"/></svg></button>
+            
+            <div class="slider-counter">1 / 4</div>
+            <div class="slider-dots"></div>
+
+            <div class="slider-track">
+              <!-- Slide 1 -->
+              <div class="slider-slide">
+                <img src="https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=800&q=80" alt="Fachada / Sala do Apartamento" loading="lazy">
+              </div>
+              <!-- Slide 2 -->
+              <div class="slider-slide">
+                <img src="https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=80" alt="Sala de Estar Integrada" loading="lazy">
+              </div>
+              <!-- Slide 3 -->
+              <div class="slider-slide">
+                <img src="https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=80" alt="Suíte Principal" loading="lazy">
+              </div>
+              <!-- Slide 4 (Exemplo com Placeholder caso queira usar sem foto externa) -->
+              <div class="slider-slide">
+                <div class="ph-media">
+                  <svg class="ph-media__icon"><use href="#i-image"/></svg>
+                  <span class="ph-media__tag">Área de Lazer / Varanda</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="property-body">
+            <div>
+              <h3>Apartamento de Alto Padrão</h3>
+              <p class="property-loc"><svg><use href="#i-pin"/></svg> Adrianópolis, Manaus/AM</p>
+            </div>
+            <div class="property-specs">
+              <span><svg><use href="#i-bed"/></svg> 3 quartos</span>
+              <span><svg><use href="#i-bath"/></svg> 2 suítes</span>
+              <span><svg><use href="#i-car"/></svg> 2 vagas</span>
+              <span><svg><use href="#i-maximize"/></svg> 115 m²</span>
+            </div>
+            <p class="property-price">R$ 850.000</p>
+            <p class="property-diff">Varanda gourmet, vista panorâmica e condomínio completo.</p>
+            <a href="#" class="btn btn-secondary btn-block" data-wa="visita" data-property="Apartamento Adrianópolis" data-purpose="venda">Tenho interesse</a>
+          </div>
+        </article>
+
+        <!-- IMÓVEL 2: Casa em Condomínio -->
+        <article class="property-card reveal">
+          <div class="property-slider">
+            <span class="property-model-tag">Exclusivo</span>
+            <span class="property-purpose">Venda</span>
+            
+            <button class="slider-btn prev" aria-label="Foto anterior"><svg><use href="#i-arrow-left"/></svg></button>
+            <button class="slider-btn next" aria-label="Próxima foto"><svg><use href="#i-arrow-right"/></svg></button>
+            
+            <div class="slider-counter">1 / 3</div>
+            <div class="slider-dots"></div>
+
+            <div class="slider-track">
+              <!-- Slide 1 -->
+              <div class="slider-slide">
+                <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80" alt="Fachada da Casa" loading="lazy">
+              </div>
+              <!-- Slide 2 -->
+              <div class="slider-slide">
+                <img src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=800&q=80" alt="Piscina e Espaço Gourmet" loading="lazy">
+              </div>
+              <!-- Slide 3 -->
+              <div class="slider-slide">
+                <img src="https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?auto=format&fit=crop&w=800&q=80" alt="Cozinha Gourmet" loading="lazy">
+              </div>
+            </div>
+          </div>
+
+          <div class="property-body">
+            <div>
+              <h3>Casa em Condomínio Fechado</h3>
+              <p class="property-loc"><svg><use href="#i-pin"/></svg> Ponta Negra, Manaus/AM</p>
+            </div>
+            <div class="property-specs">
+              <span><svg><use href="#i-bed"/></svg> 4 suítes</span>
+              <span><svg><use href="#i-bath"/></svg> 5 banheiros</span>
+              <span><svg><use href="#i-car"/></svg> 4 vagas</span>
+              <span><svg><use href="#i-maximize"/></svg> 320 m²</span>
+            </div>
+            <p class="property-price">R$ 2.400.000</p>
+            <p class="property-diff">Piscina privativa, energia solar e segurança 24h.</p>
+            <a href="#" class="btn btn-secondary btn-block" data-wa="visita" data-property="Casa Ponta Negra" data-purpose="venda">Tenho interesse</a>
+          </div>
+        </article>
+
+        <!-- IMÓVEL 3: Sala Comercial -->
+        <article class="property-card reveal">
+          <div class="property-slider">
+            <span class="property-model-tag">Comercial</span>
+            <span class="property-purpose">Locação</span>
+            
+            <button class="slider-btn prev" aria-label="Foto anterior"><svg><use href="#i-arrow-left"/></svg></button>
+            <button class="slider-btn next" aria-label="Próxima foto"><svg><use href="#i-arrow-right"/></svg></button>
+            
+            <div class="slider-counter">1 / 3</div>
+            <div class="slider-dots"></div>
+
+            <div class="slider-track">
+              <!-- Slide 1 -->
+              <div class="slider-slide">
+                <img src="https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=800&q=80" alt="Recepção Comercial" loading="lazy">
+              </div>
+              <!-- Slide 2 -->
+              <div class="slider-slide">
+                <img src="https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&w=800&q=80" alt="Sala de Reunião" loading="lazy">
+              </div>
+              <!-- Slide 3 -->
+              <div class="slider-slide">
+                <img src="https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=800&q=80" alt="Ambiente de Trabalho" loading="lazy">
+              </div>
+            </div>
+          </div>
+
+          <div class="property-body">
+            <div>
+              <h3>Sala Comercial Pronta</h3>
+              <p class="property-loc"><svg><use href="#i-pin"/></svg> Vieiralves, Manaus/AM</p>
+            </div>
+            <div class="property-specs">
+              <span><svg><use href="#i-maximize"/></svg> 48 m²</span>
+              <span><svg><use href="#i-bath"/></svg> 1 lavabo</span>
+              <span><svg><use href="#i-car"/></svg> 1 vaga</span>
+            </div>
+            <p class="property-price">R$ 3.500 / mês</p>
+            <p class="property-diff">Modulados inclusos, ar-condicionado e recepção.</p>
+            <a href="#" class="btn btn-secondary btn-block" data-wa="visita" data-property="Sala Comercial Vieiralves" data-purpose="locação">Tenho interesse</a>
+          </div>
+        </article>
+
+      </div>
+
+      <p class="properties-footnote">Você pode adicionar mais fotos substituindo a tag <code>&lt;img src="..."&gt;</code> dentro de cada <code>.slider-track</code>.</p>
+    </div>
+  </section>
+
+  <!-- ============ NÃO ENCONTROU O QUE PROCURA ============ -->
+  <section class="section section-off" id="nao-encontrou">
+    <div class="container">
+      <div class="lead-wrap">
+        <div class="lead-copy reveal">
+          <span class="eyebrow">Busca direcionada</span>
+          <h2 style="margin-top:14px">Não encontrou exatamente o que procura?</h2>
+          <p>Conte para Marcilenny o que você procura e receba uma busca direcionada às suas necessidades — mesmo que ainda esteja pesquisando.</p>
+        </div>
+
+        <form class="lead-form reveal" id="leadForm">
+          <div class="form-row">
+            <label>O que você procura?</label>
+            <div class="pill-group">
+              <label class="pill-option"><input type="radio" name="objetivo" value="Comprar" checked><span>Comprar</span></label>
+              <label class="pill-option"><input type="radio" name="objetivo" value="Alugar"><span>Alugar</span></label>
+              <label class="pill-option"><input type="radio" name="objetivo" value="Investir"><span>Investir</span></label>
+            </div>
+          </div>
+
+          <div class="form-row">
+            <label for="tipoImovel">Tipo de imóvel</label>
+            <div class="select-wrap">
+              <select id="tipoImovel" name="tipo">
+                <option value="Apartamento">Apartamento</option>
+                <option value="Casa">Casa</option>
+                <option value="Cobertura">Cobertura</option>
+                <option value="Terreno">Terreno</option>
+                <option value="Sala comercial">Sala comercial</option>
+                <option value="Outro">Outro</option>
+              </select>
+              <svg><use href="#i-chevron"/></svg>
+            </div>
+          </div>
+
+          <div class="form-row">
+            <label for="regiao">Região desejada</label>
+            <input type="text" id="regiao" name="regiao" placeholder="Ex.: Ponta Negra, Adrianópolis...">
+          </div>
+
+          <div class="form-row" style="margin-bottom:26px;">
+            <label for="faixa">Faixa de valor</label>
+            <div class="select-wrap">
+              <select id="faixa" name="faixa">
+                <option value="Até R$ 300 mil">Até R$ 300 mil</option>
+                <option value="R$ 300 mil a R$ 600 mil">R$ 300 mil a R$ 600 mil</option>
+                <option value="R$ 600 mil a R$ 1 milhão">R$ 600 mil a R$ 1 milhão</option>
+                <option value="Acima de R$ 1 milhão">Acima de R$ 1 milhão</option>
+                <option value="Prefiro conversar sobre o valor">Prefiro conversar sobre o valor</option>
+              </select>
+              <svg><use href="#i-chevron"/></svg>
+            </div>
+          </div>
+
+          <button type="submit" class="btn btn-secondary btn-block">
+            <svg><use href="#i-chat"/></svg> Descrever o imóvel que procuro
+          </button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ DIFERENCIAL ============ -->
+  <section class="section section-white" id="diferencial">
+    <div class="container">
+      <div class="diff-wrap">
+        <div class="diff-copy reveal">
+          <span class="eyebrow">Diferencial</span>
+          <h2 style="margin-top:14px">Você não precisa procurar sozinho.</h2>
+          <p>Você explica o que procura. Marcilenny entende sua necessidade e direciona a busca para oportunidades que possam fazer sentido para você.</p>
+
+          <div class="pillar-list">
+            <div class="pillar">
+              <div class="pillar-icon"><svg><use href="#i-user"/></svg></div>
+              <div><h3>Atendimento personalizado</h3><p>Uma conversa orientada pelo seu momento, perfil e objetivo.</p></div>
+            </div>
+            <div class="pillar">
+              <div class="pillar-icon"><svg><use href="#i-pin"/></svg></div>
+              <div><h3>Busca direcionada</h3><p>Oportunidades selecionadas de acordo com o que você procura.</p></div>
+            </div>
+            <div class="pillar">
+              <div class="pillar-icon"><svg><use href="#i-shield"/></svg></div>
+              <div><h3>Acompanhamento próximo</h3><p>Suporte durante as etapas da sua jornada imobiliária.</p></div>
+            </div>
+            <div class="pillar">
+              <div class="pillar-icon"><svg><use href="#i-home"/></svg></div>
+              <div><h3>Três caminhos</h3><p>Compra, locação ou investimento em um mesmo atendimento.</p></div>
+            </div>
+          </div>
+
+          <a href="#" class="btn btn-primary" data-wa="geral">Quero atendimento personalizado</a>
+        </div>
+
+        <div class="diff-visual reveal">
+          <div class="photo-frame about-photo">
+            <img class="real-photo" src="https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&w=800&q=80" alt="Marcilenny Seixas em atendimento profissional" loading="lazy" decoding="async">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ COMO FUNCIONA ============ -->
+  <section class="section section-off" id="como-funciona">
+    <div class="container">
+      <div class="section-head center">
+        <h2>Começar sua busca pode ser mais simples do que parece.</h2>
+      </div>
+
+      <div class="steps" style="max-width:680px;margin-inline:auto;">
+        <div class="step">
+          <div class="step-num">01</div>
+          <div><h3>Você conta o que procura</h3><p>Explique sua necessidade, objetivo, região de interesse e sua faixa de orçamento.</p></div>
+        </div>
+        <div class="step">
+          <div class="step-num">02</div>
+          <div><h3>Entendemos o seu perfil</h3><p>Identificamos as características mais importantes para sua busca.</p></div>
+        </div>
+        <div class="step">
+          <div class="step-num">03</div>
+          <div><h3>Você conhece as oportunidades</h3><p>Receba opções compatíveis e agende visitas aos imóveis de interesse.</p></div>
+        </div>
+        <div class="step">
+          <div class="step-num">04</div>
+          <div><h3>Você decide com mais clareza</h3><p>Compare as alternativas, tire suas dúvidas e conte com acompanhamento nas próximas etapas.</p></div>
+        </div>
+      </div>
+
+      <div class="how-cta">
+        <a href="#" class="btn btn-primary" data-wa="geral">Quero começar meu atendimento</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ AINDA PESQUISANDO ============ -->
+  <section class="section section-white">
+    <div class="container">
+      <div class="research-band reveal">
+        <h2>Ainda não sabe exatamente qual imóvel procura? Tudo bem.</h2>
+        <p>Você não precisa ter todas as respostas antes de entrar em contato. Pode estar pesquisando preços, conhecendo regiões de Manaus, avaliando se é hora de comprar ou simplesmente tentando entender melhor suas opções.</p>
+        <a href="#" class="btn btn-primary" data-wa="geral">Conversar com Marcilenny</a>
+        <p class="microcopy">Sem compromisso. Primeiro entendemos sua necessidade.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ INVESTIMENTO ============ -->
+  <section class="section section-dark" id="investimento">
+    <div class="container">
+      <div class="invest-wrap">
+        <div class="invest-copy reveal">
+          <span class="eyebrow" style="color:var(--gold)">Investimento imobiliário</span>
+          <h2 style="margin-top:14px">Seu próximo imóvel também pode fazer parte da sua estratégia patrimonial.</h2>
+          <p>Para investir, vale olhar além do imóvel: localização, características da propriedade, perfil da região, demanda e objetivo do investimento podem fazer parte da análise.</p>
+
+          <a href="#" class="btn btn-primary" data-wa="investimento">Quero conversar sobre investimento</a>
+          <p class="invest-disclaimer">As informações desta seção têm caráter orientativo e não constituem promessa de rentabilidade, valorização ou retorno financeiro.</p>
+        </div>
+
+        <div class="invest-topics reveal">
+          <div class="invest-topic"><svg><use href="#i-trend"/></svg><h3>Valorização patrimonial</h3></div>
+          <div class="invest-topic"><svg><use href="#i-key"/></svg><h3>Renda com locação</h3></div>
+          <div class="invest-topic"><svg><use href="#i-home"/></svg><h3>Diversificação</h3></div>
+          <div class="invest-topic"><svg><use href="#i-pin"/></svg><h3>Oportunidades imobiliárias</h3></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ SOBRE MARCILENNY ============ -->
+  <section class="section section-white" id="sobre">
+    <div class="container">
+      <div class="about-wrap">
+        <div class="about-visual reveal">
+          <div class="photo-frame about-photo">
+            <img class="real-photo" src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=800&q=80" alt="Marcilenny Seixas, corretora de imóveis" loading="lazy" decoding="async">
+            <div class="credential-badge"><strong>Marcilenny Seixas</strong><span>Corretora de imóveis • CRECI 7868</span></div>
+          </div>
+        </div>
+
+        <div class="about-copy reveal">
+          <span class="eyebrow">Sobre</span>
+          <h2 style="margin-top:14px">Prazer, eu sou Marcilenny Seixas.</h2>
+          <p>Atuo no mercado imobiliário em Manaus ajudando pessoas a encontrar imóveis alinhados às suas necessidades e objetivos.</p>
+          <p>Acredito que um bom atendimento começa ouvindo, entendendo o que você realmente procura e apresentando possibilidades de forma clara e responsável.</p>
+          <p>Seja para comprar, alugar ou investir, a proposta é tornar sua jornada mais simples, próxima e personalizada.</p>
+
+          <p class="about-quote">Você me conta o que procura. Juntos, avaliamos as possibilidades.</p>
+
+          <div class="about-meta">
+            <span><strong>CRECI 7868</strong></span>
+            <span>Manaus/AM</span>
+          </div>
+
+          <a href="#" class="btn btn-primary" data-wa="geral">Falar com Marcilenny</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ PROVA SOCIAL ============ -->
+  <section class="section section-off">
+    <div class="container">
+      <div class="section-head center">
+        <h2>Uma experiência imobiliária que começa com confiança.</h2>
+      </div>
+
+      <div class="testimonial-grid">
+        <div class="testimonial-card reveal">
+          <div class="stars"><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg></div>
+          <p>"Atendimento excelente e muito transparente. Consegui encontrar exatamente o apartamento que eu precisava em Adrianópolis."</p>
+          <p class="testimonial-name">Juliana M.</p>
+        </div>
+        <div class="testimonial-card reveal">
+          <div class="stars"><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg></div>
+          <p>"Processo de locação rápido e sem burocracias desnecessárias. A Marcilenny foi prestativa em todas as etapas."</p>
+          <p class="testimonial-name">Rodrigo S.</p>
+        </div>
+        <div class="testimonial-card reveal">
+          <div class="stars"><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg></div>
+          <p>"Excelente suporte e visão de mercado para quem quer investir em imóveis em Manaus. Recomendo muito!"</p>
+          <p class="testimonial-name">Carlos Eduardo</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ FAQ ============ -->
+  <section class="section section-white" id="faq">
+    <div class="container">
+      <div class="section-head">
+        <h2>Perguntas frequentes</h2>
+      </div>
+
+      <div class="faq-list">
+        <details class="faq-item" open>
+          <summary>Quais tipos de imóveis posso procurar? <svg><use href="#i-chevron"/></svg></summary>
+          <p>O atendimento pode ser direcionado para diferentes tipos de imóveis, conforme a necessidade do cliente e as oportunidades disponíveis em Manaus.</p>
+        </details>
+        <details class="faq-item">
+          <summary>Vocês trabalham com compra e locação? <svg><use href="#i-chevron"/></svg></summary>
+          <p>Sim. O atendimento pode ser direcionado tanto para compra quanto para locação.</p>
+        </details>
+        <details class="faq-item">
+          <summary>Também existe atendimento para investidores? <svg><use href="#i-chevron"/></svg></summary>
+          <p>Sim. Quem deseja investir pode conversar sobre oportunidades imobiliárias de acordo com seus objetivos.</p>
+        </details>
+        <details class="faq-item">
+          <summary>Preciso saber exatamente qual imóvel quero? <svg><use href="#i-chevron"/></svg></summary>
+          <p>Não. Você pode começar explicando o que procura, mesmo que ainda esteja pesquisando. A partir disso, a busca pode ser direcionada.</p>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ CTA FINAL ============ -->
+  <section class="section section-dark final-cta">
+    <div class="container">
+      <h2>Vamos conversar sobre o imóvel que você procura?</h2>
+      <p>Você pode estar comprando, alugando, investindo ou apenas pesquisando. Conte o que precisa e receba um atendimento personalizado em Manaus.</p>
+      <a href="#" class="btn btn-primary" data-wa="geral">
+        <svg><use href="#i-chat"/></svg> Falar com Marcilenny no WhatsApp
+      </a>
+      <p class="sub">Compra <span style="color:var(--gold)">•</span> Locação <span style="color:var(--gold)">•</span> Investimento &nbsp;|&nbsp; Manaus/AM</p>
+    </div>
+  </section>
+
+</main>
+
+<!-- ============ RODAPÉ ============ -->
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-top">
+      <div class="footer-brand">
+        <a href="#hero" class="logo">Marcilenny <span>Seixas</span></a>
+        <p>Corretora de Imóveis — Compra, Locação e Investimento em Manaus/AM.</p>
+      </div>
+
+      <div class="footer-col">
+        <h4>Contato</h4>
+        <ul>
+          <li><a href="#" data-wa="geral">WhatsApp</a></li>
+          <li><a href="https://www.instagram.com/marcilennyseiixas/" target="_blank" rel="noopener">Instagram @marcilennyseiixas</a></li>
+          <li><a href="tel:+559293590172">(92) 9359-0172</a></li>
+          <li><a href="mailto:marcilennyseixas@gmail.com">marcilennyseixas@gmail.com</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>Institucional</h4>
+        <ul>
+          <li><a href="#sobre">Sobre Marcilenny</a></li>
+          <li><a href="#faq">Perguntas frequentes</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <span>&copy; <span id="anoAtual">2026</span> Marcilenny Seixas. Todos os direitos reservados.</span>
+      <span>CRECI: 7868</span>
+    </div>
+  </div>
+</footer>
+
+<!-- ============ WHATSAPP FLUTUANTE ============ -->
+<a href="#" class="whatsapp-float" data-wa="geral" aria-label="Falar com Marcilenny no WhatsApp">
+  <svg><use href="#i-chat"/></svg>
+</a>
+
+<!-- ============ BARRA FIXA MOBILE ============ -->
+<div class="whatsapp-bar">
+  <a href="#" class="btn btn-primary btn-block" data-wa="geral" aria-label="Falar com Marcilenny no WhatsApp">💬 Falar com Marcilenny</a>
+</div>
+
+<script>
+(function(){
+  "use strict";
+
+  var WHATSAPP_NUMBER = "559293590172";
+
+  var MESSAGES = {
+    compra: "Olá, Marcilenny! Estou procurando um imóvel para comprar em Manaus e gostaria de receber algumas opções.",
+    locacao: "Olá, Marcilenny! Estou procurando um imóvel para alugar em Manaus. Gostaria de conversar sobre as opções disponíveis.",
+    investimento: "Olá, Marcilenny! Tenho interesse em investir em imóveis em Manaus e gostaria de conhecer algumas possibilidades.",
+    visita: "Olá, Marcilenny! Gostaria de agendar uma visita a um imóvel. Pode me orientar sobre as opções e horários disponíveis?",
+    geral: "Olá, Marcilenny! Gostaria de conversar sobre uma necessidade imobiliária e receber um atendimento personalizado."
+  };
+
+  function buildWhatsAppUrl(message){
+    return "https://wa.me/" + WHATSAPP_NUMBER + "?text=" + encodeURIComponent(message);
+  }
+
+  function openWhatsApp(message){
+    window.open(buildWhatsAppUrl(message), "_blank", "noopener");
+  }
+
+  // WhatsApp click triggers
+  document.querySelectorAll("[data-wa]").forEach(function(el){
+    el.addEventListener("click", function(e){
+      e.preventDefault();
+      var ctx = el.getAttribute("data-wa");
+      var message = MESSAGES[ctx] || MESSAGES.geral;
+
+      if (ctx === "visita" && el.hasAttribute("data-property")){
+        var propName = el.getAttribute("data-property");
+        var purpose = el.getAttribute("data-purpose") || "";
+        message = 'Olá, Marcilenny! Tenho interesse no imóvel "' + propName + '"' +
+                  (purpose ? " (" + purpose + ")" : "") +
+                  ". Pode me passar mais informações e a disponibilidade para visita?";
+      }
+
+      openWhatsApp(message);
+    });
+  });
+
+  // Menu Mobile
+  var menuToggle = document.getElementById("menuToggle");
+  var mobileMenu = document.getElementById("mobileMenu");
+
+  if (menuToggle && mobileMenu){
+    menuToggle.addEventListener("click", function(){
+      var isOpen = mobileMenu.classList.toggle("is-open");
+      menuToggle.classList.toggle("is-open", isOpen);
+      menuToggle.setAttribute("aria-expanded", isOpen ? "true" : "false");
+    });
+
+    document.querySelectorAll(".mm-link").forEach(function(link){
+      link.addEventListener("click", function(){
+        menuToggle.classList.remove("is-open");
+        menuToggle.setAttribute("aria-expanded", "false");
+        mobileMenu.classList.remove("is-open");
+      });
+    });
+  }
+
+  // Header scroll shadow
+  var header = document.getElementById("header");
+  function onScroll(){
+    if (window.scrollY > 6){ header.classList.add("is-scrolled"); }
+    else { header.classList.remove("is-scrolled"); }
+  }
+  window.addEventListener("scroll", onScroll, { passive: true });
+  onScroll();
+
+  // Formulário de busca
+  var leadForm = document.getElementById("leadForm");
+  if (leadForm){
+    leadForm.addEventListener("submit", function(e){
+      e.preventDefault();
+      var data = new FormData(leadForm);
+      var objetivo = data.get("objetivo") || "";
+      var tipo = data.get("tipo") || "";
+      var regiao = (data.get("regiao") || "").toString().trim();
+      var faixa = data.get("faixa") || "";
+
+      var lines = [
+        "Olá, Marcilenny! Gostaria de um atendimento personalizado.",
+        "",
+        "Objetivo: " + objetivo,
+        "Tipo de imóvel: " + tipo
+      ];
+      if (regiao){ lines.push("Região desejada: " + regiao); }
+      lines.push("Faixa de valor: " + faixa);
+
+      openWhatsApp(lines.join("\n"));
+    });
+  }
+
+  // ==========================================
+  // CARROSSEL / SLIDER DE FOTOS DOS IMÓVEIS
+  // ==========================================
+  document.querySelectorAll(".property-slider").forEach(function(slider){
+    var track = slider.querySelector(".slider-track");
+    var slides = slider.querySelectorAll(".slider-slide");
+    var btnPrev = slider.querySelector(".slider-btn.prev");
+    var btnNext = slider.querySelector(".slider-btn.next");
+    var counter = slider.querySelector(".slider-counter");
+    var dotsContainer = slider.querySelector(".slider-dots");
+    var currentIndex = 0;
+    var totalSlides = slides.length;
+
+    if (totalSlides <= 1){
+      if(btnPrev) btnPrev.style.display = "none";
+      if(btnNext) btnNext.style.display = "none";
+      if(counter) counter.style.display = "none";
+      return;
+    }
+
+    // Gerar bolinhas indicadoras (dots)
+    dotsContainer.innerHTML = "";
+    slides.forEach(function(_, idx){
+      var dot = document.createElement("div");
+      dot.classList.add("slider-dot");
+      if (idx === 0) dot.classList.add("active");
+      dot.addEventListener("click", function(e){
+        e.stopPropagation();
+        goToSlide(idx);
+      });
+      dotsContainer.appendChild(dot);
+    });
+
+    var dots = dotsContainer.querySelectorAll(".slider-dot");
+
+    function updateSlider(){
+      track.style.transform = "translateX(-" + (currentIndex * 100) + "%)";
+      if (counter){
+        counter.textContent = (currentIndex + 1) + " / " + totalSlides;
+      }
+      dots.forEach(function(d, idx){
+        d.classList.toggle("active", idx === currentIndex);
+      });
+    }
+
+    function goToSlide(index){
+      currentIndex = index;
+      updateSlider();
+    }
+
+    function nextSlide(){
+      currentIndex = (currentIndex + 1) % totalSlides;
+      updateSlider();
+    }
+
+    function prevSlide(){
+      currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
+      updateSlider();
+    }
+
+    if (btnNext){
+      btnNext.addEventListener("click", function(e){
+        e.stopPropagation();
+        nextSlide();
+      });
+    }
+
+    if (btnPrev){
+      btnPrev.addEventListener("click", function(e){
+        e.stopPropagation();
+        prevSlide();
+      });
+    }
+
+    // Suporte a swipe no mobile (touch)
+    var startX = 0;
+    var endX = 0;
+    slider.addEventListener("touchstart", function(e){
+      startX = e.touches[0].clientX;
+    }, { passive: true });
+
+    slider.addEventListener("touchend", function(e){
+      endX = e.changedTouches[0].clientX;
+      var diff = startX - endX;
+      if (Math.abs(diff) > 40){
+        if (diff > 0) nextSlide();
+        else prevSlide();
+      }
+    }, { passive: true });
+  });
+
+  // Reveal Animation
+  if ("IntersectionObserver" in window && !window.matchMedia("(prefers-reduced-motion: reduce)").matches){
+    var observer = new IntersectionObserver(function(entries){
+      entries.forEach(function(entry){
+        if (entry.isIntersecting){
+          entry.target.classList.add("is-visible");
+          observer.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.12, rootMargin: "0px 0px -40px 0px" });
+
+    document.querySelectorAll(".reveal").forEach(function(el){ observer.observe(el); });
+  } else {
+    document.querySelectorAll(".reveal").forEach(function(el){ el.classList.add("is-visible"); });
+  }
+
+  // Ano atual no rodapé
+  var anoEl = document.getElementById("anoAtual");
+  if (anoEl){ anoEl.textContent = new Date().getFullYear(); }
+
+})();
+</script>
+
+</body>
+</html>
